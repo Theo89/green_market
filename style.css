@@ -1,0 +1,83 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 21, 2015, 3:16:58 PM
+    Author     : TEOM
+*/
+
+#page{
+    width: 100%;
+ }
+ 
+ 
+ #firstp{
+ width: 30%; 
+ float:left;
+ 
+ }
+ #secondp{
+ width:30%;
+ float:right;
+ 
+ }
+ #sk{
+  float: inside;
+  width: 30%;
+  height: 20%;
+  
+ }
+ 
+ 
+#header{
+    
+    color:green;
+    
+}
+#sr{
+    
+    color:red;
+}
+
+.t1{
+    clear:both;
+font: Times New Roman;
+padding:10px;
+width: 50%;
+}
+.t2{
+    color:blue;
+    background-color: red;
+}
+.t3{
+    color:tomato;
+    background-color: black;
+}
+
+#no{
+    color: magenta;
+    
+}
+
+#no1{
+    color: darkblue;
+    
+}
+#no2{
+    color: darkblue;
+    
+}
+#mail{
+    color:orangered;
+    background-color: black;
+    width: 20%;
+    
+}
+
+#del{
+    color:orangered;
+    background-color: black;
+    width: 20%;
+}
